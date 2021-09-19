@@ -22,13 +22,20 @@ Les différents éléments scénaristiques, lieux et personnages utilisés dans 
 </ul>
 
 <h2>:books:Librairie fournie</h2>
-<p>Un moteur de jeu a été fournie par les enseignants </p>
+<p> Le moteur JavaGame conçu par les professeur de l'IUT de Dijon nous a été fourni </p>
 
 <h2>1) Mon rôle</h2>
-Durant ce projet j'ai réaliser la conception UML du jeu mais aussi de nombreuses fonctionnalités telles que:
-  - Système de mouvement des Invaders
-  - Système de tir
-  - Système de bonus
+
+  - Moteur d'animation permettant d'animer les sprites (la GameEngine ne le permettait pas)
+  - Developpement du système de menu
+  - Animation 2D des sprites
+  - Ajout du double canon au vaisseau
+  - Générateur randomisé de debris spaciaux
+  - Système de bouclier
+  - Magnetisme des missiles
+  - Appartition du Boss 
+  - Dévellopement de fabriques (Factory Pattern)
+  - Ajustement des mécaniques de gameplay
   
 <h2>2) Comment jouer au jeu?</h2>
 <div align="center">
